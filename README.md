@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcelo Falcão, tenho 26 anos e sou natural do Rio de janeiro. Concluí o ensino médio e tenho formação em PYTHON pelo SENAC. Atualmente, estou cursando Ciência da Computação no Centro Universitário IBMR e análise de dados (POWER BI) pelo SENAC. Experiência com desenvolvimentos de API’s com springboot, MYSQL, Java, CSS, HTML,  Phyton, desenvolvimento de sites e aplicações web ( webdesign e full stack ), pacote Office, Photoshop , Illustrator e NoCode. Buscando por oportunidades para ampliar meus conhecimentos. 
+Me chamo Marcelo Falcão, tenho 26 anos e sou natural do Rio de janeiro. Concluí o ensino médio e tenho formação em PYTHON pelo SENAC. Atualmente, estou cursando Ciência da Computação no Centro Universitário IBMR. Experiência com desenvolvimentos de API’s com springboot, MYSQL, Java, CSS, HTML,  Phyton, análises de dados ( POWER BI ) desenvolvimento de sites e aplicações web ( webdesign e full stack ), pacote Office, Photoshop , Illustrator e NoCode. Buscando por oportunidades para ampliar meus conhecimentos. 
 <p align="left">
     <a href="https://https://github.com/Naturo777">
         <img 
