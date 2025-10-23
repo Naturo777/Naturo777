@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Marcelo Falcão, tenho 26 anos e sou natural do Rio de janeiro. Concluí o ensino médio e tenho formação em PYTHON pelo SENAC. Atualmente, estou cursando Ciência da Computação no Centro Universitário IBMR. Experiência com desenvolvimentos de API’s com springboot, MYSQL, Java, CSS, HTML,  Phyton, análises de dados ( POWER BI ) desenvolvimento de sites e aplicações web ( webdesign e full stack ), pacote Office, Photoshop , Illustrator e NoCode. Buscando por oportunidades para ampliar meus conhecimentos. 
+Me chamo Marcelo Falcão, tenho 26 anos e sou natural do Rio de janeiro. Concluí o ensino médio e tenho formação em PYTHON e POWER BI pelo SENAC. Atualmente, estou cursando Ciência da Computação no Centro Universitário IBMR. Experiência com desenvolvimentos de API’s com springboot, MYSQL, Java, CSS, HTML,  Phyton, análises de dados, desenvolvimento de sites e aplicações web ( webdesign e full stack ), pacote Office, Photoshop , Illustrator e NoCode. Buscando por oportunidades para ampliar meus conhecimentos. 
 <p align="left">
     <a href="https://https://github.com/Naturo777">
         <img 
@@ -73,6 +73,33 @@ Me chamo Marcelo Falcão, tenho 26 anos e sou natural do Rio de janeiro. Conclu�
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 /> 
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
+    />
+    <img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"     
+    />
+   <img 
+    align="left" 
+    alt="MySQL server" 
+    title="MySQL server"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"
+     /> 
+
+          
+ 
 
 
 <br/>
